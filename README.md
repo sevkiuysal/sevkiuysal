@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sevki09
 - 👀 I’m interested in Java developer
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
