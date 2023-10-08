@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sevki09
+- 👋 Hi, I’m @sevki uysal
 - 👀 I’m interested in Java developer
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on ...
