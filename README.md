@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sevki uysal
-- 👀 I’m interested in Java developer
-- 🌱 I’m currently learning Java and Spring Boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Java developer
+- 🌱 I’m currently learning Java, Spring Boot and Angular
+
 
 <!---
 sevki09/sevki09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
